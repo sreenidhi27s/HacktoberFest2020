@@ -1,0 +1,38 @@
+body{
+    background-color: cadetblue;
+}
+.box{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    padding: 50px;
+    border: 1px solod black;
+    border: 4px solid black;
+    border-radius: 10pxs;
+}
+.box input{
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: cornflowerblue;
+
+}
+.box button{
+    height: 40px;
+    border-radius: 10px;
+    background-color: crimson;
+    color: white;
+}
+.list{
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 10px;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px ;
+    width: 50%;
+}
+.delete{
+ margin-left: 50%;
+}
